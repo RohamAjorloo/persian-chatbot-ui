@@ -1,1 +1,4 @@
-requirements.txt
+# فقط پکیج‌های مورد نیاز برای UI
+streamlit
+requests
+python-dotenv
